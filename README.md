@@ -35,4 +35,21 @@ To analyze diverse datasets using statistical inference techniques and deliver b
 
 ## 📈 Key Insights & Impact
 
-- Detected statistically significant differences in stone qual
+- Detected statistically significant differences in stone quality and implant performance.
+- Helped understand how manufacturing and medical conditions affect final product performance.
+- Informed operational decision-making using reliable inferential methods.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python**
+- **NumPy**, **Pandas**
+- **SciPy**, **Statsmodels**
+- **Matplotlib**, **Seaborn**
+- Jupyter Notebook
+
+---
+
+## 📁 Repository Structure
+
