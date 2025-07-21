@@ -49,7 +49,4 @@ To analyze diverse datasets using statistical inference techniques and deliver b
 - **Matplotlib**, **Seaborn**
 - Jupyter Notebook
 
----
-
-## 📁 Repository Structure
 
