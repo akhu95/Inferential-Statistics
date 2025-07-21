@@ -1,66 +1,38 @@
-🧪 Inferential Statistics Project
-This repository presents a comprehensive data analysis project conducted as part of the PGP Data Science program, applying core concepts of inferential statistics to real-world problems using Python.
+# 🧪 Inferential Statistics Project
 
-📌 Project Objective
-To explore statistical relationships and derive actionable insights using:
+Applied inferential statistics techniques including hypothesis testing, ANOVA, and probability analysis on real-world datasets to derive actionable insights in sports injuries, manufacturing quality, stone hardness, and dental implants.
 
-Probability Theory
+---
 
-Hypothesis Testing (Z-Test, T-Test)
+## 📌 Project Objective
 
-ANOVA
+To analyze diverse datasets using statistical inference techniques and deliver business recommendations by applying:
 
-Tukey’s HSD Test
+- Probability theory
+- Z-test, T-test (One-sample & Two-sample)
+- ANOVA (One-way and Two-way)
+- Tukey’s HSD post-hoc test
+- Confidence intervals and p-value-based decision-making
 
-Normal Distribution Analysis
+---
 
-🗂️ Problem Statements Covered
-Sports Injury Analysis
+## 📊 Problem Domains Covered
 
-Injury probability based on football player positions.
+1. **Sports Injury Probability Analysis**  
+   - Computed conditional and joint probabilities of player injuries by position.
 
-Conditional and joint probabilities.
+2. **Gunny Bag Strength Study**  
+   - Evaluated the proportion of bags falling within acceptable strength limits using the normal distribution.
 
-Manufacturing Strength Analysis
+3. **Stone Printing Suitability**  
+   - Assessed whether polished/unpolished stones meet the required Brinell Hardness Index via t-tests.
 
-Analyze breaking strength of gunny bags.
+4. **Dental Implant Durability Study**  
+   - Used One-way and Two-way ANOVA to measure effects of dentists, alloy types, and implant methods.
+   - Performed Tukey HSD to pinpoint statistically significant groups.
 
-Calculate proportions under normal distribution curve.
+---
 
-Stone Printing Suitability Study
+## 📈 Key Insights & Impact
 
-One-sample and two-sample T-tests on polished/unpolished stones.
-
-Hypothesis validation against Brinell Hardness Index.
-
-Dental Implant Hardness Study
-
-One-way and Two-way ANOVA to test the impact of:
-
-Dentist
-
-Implant Method
-
-Type of Alloy
-
-Interaction effects
-
-Tukey HSD for post-hoc analysis.
-
-🧰 Tools & Libraries Used
-Python (Pandas, NumPy, SciPy, Statsmodels, Seaborn, Matplotlib)
-
-Jupyter Notebook
-
-ANOVA & hypothesis testing libraries
-
-Visualization for statistical interpretation
-
-📈 Key Learnings
-Application of inferential statistics in quality control and medical research.
-
-Understanding normality, variance assumptions, and their impact on test selection.
-
-Data storytelling through statistical plots and confidence intervals.
-
-Decision-making based on p-values and significance levels.
+- Detected statistically significant differences in stone qual
